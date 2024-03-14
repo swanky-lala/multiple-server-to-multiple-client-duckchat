@@ -1,7 +1,6 @@
 
 ****************************** DuckChat: multiple client and multiple server chat API using UDP protocol *****************************************************
 NAME: Kenneth Nnadi
-      ID :951967580
       Programming assignment 2
       Intro to Networking
 

@@ -1,12 +1,11 @@
 
 ****************************** DuckChat: multiple client and multiple server chat API using UDP protocol *****************************************************
 NAME: Kenneth Nnadi
-      Programming assignment 2
-      Intro to Networking
 
 ABOUT:
 
         - Implementing simple server to client and server to server communication
+	- This is the second version which is basically multiple server to multiple client communication
 
 PRERQUISITES:
         - Unix/Linux like OS
